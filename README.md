@@ -1,6 +1,3 @@
-# mushy_storerobbery
-Store robbery for redm (VORP Framework)
-
 General Store Robbery Script
 Edited version of Wizard's/Perry's general store robbery: wcrp_generalrobbery_kw
 so all props go to them 
